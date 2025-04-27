@@ -17,6 +17,7 @@
 
 
 
+
 Education is an ERP System offering a complete school management system with staff, student expenses and report management functionality. The Application is built in Laravel 8 and is a complete end-to-end CMS (Content Management System) and is highly customizable. The initial project is a starter project with lots of room for improvement in terms of features and functionality that can be built upon. Multi authentication system built using Laravel Jetstream with User and Admin logins.
 
 # Link to Project
